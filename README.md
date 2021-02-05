@@ -1,4 +1,4 @@
-## 🍀 shl's GitHub ✨
+## ✨ shl's GitHub 🌌
 
 [![shl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lshbluesky&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=50,B2EBF4,BBDFF3,C9DDF1,D4DEF3,DDDEF3,E6DEF3,EBDDF2)](https://github.com/anuraghazra/github-readme-stats)
 
