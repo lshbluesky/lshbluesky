@@ -6,16 +6,19 @@
 
 ## 🛠️ Tech Stack 📚
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![ASL](https://img.shields.io/badge/ACPI%20Source%20Language%20%28ASL%29-0071C5?style=for-the-badge&logo=Intel&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![ASL](https://img.shields.io/badge/ACPI%20Source%20Language%20%28ASL%29-0071C5?style=flat-square&logo=Intel&logoColor=white)
 
-![Oracle DataBase](https://img.shields.io/badge/Oracle%20DataBase-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![Oracle DataBase](https://img.shields.io/badge/Oracle%20DataBase-F80000?style=flat-square&logo=Oracle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white)
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual-Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio-Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse-IDE-2C2255?style=flat-square&logo=Eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white)
