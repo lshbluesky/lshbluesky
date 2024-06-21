@@ -13,6 +13,7 @@
 ![ASL](https://img.shields.io/badge/ACPI%20Source%20Language%20%28ASL%29-0071C5?style=flat-square&logo=Intel&logoColor=white)
 
 ![Oracle DataBase](https://img.shields.io/badge/Oracle%20DataBase-F80000?style=flat-square&logo=Oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=Oracle&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white)
