@@ -36,5 +36,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio-Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse-IDE-2C2255?style=flat-square&logo=Eclipse&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-181717?style=flat-square&logo=GitHub-Actions&logoColor=white)
 ![MaciASL](https://img.shields.io/badge/MaciASL-0071C5?style=flat-square&logo=Intel&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white)
