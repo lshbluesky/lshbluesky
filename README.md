@@ -50,3 +50,11 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-181717?style=flat-square&logo=GitHub-Actions&logoColor=white)
 ![MaciASL](https://img.shields.io/badge/MaciASL-0071C5?style=flat-square&logo=Intel&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white)
+
+## 🗃️ Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lshbluesky&repo=Database&description_lines_count=2)](https://github.com/lshbluesky/Database)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lshbluesky&repo=Terraform-Cloud-Monitoring&description_lines_count=2)](https://github.com/lshbluesky/Terraform-Cloud-Monitoring)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lshbluesky&repo=Big-Data-Analysis&description_lines_count=2)](https://github.com/lshbluesky/Big-Data-Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lshbluesky&repo=MazeGame&description_lines_count=2)](https://github.com/lshbluesky/MazeGame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lshbluesky&repo=RhythmGame&description_lines_count=2)](https://github.com/lshbluesky/RhythmGame)
