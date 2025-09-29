@@ -53,8 +53,11 @@
 
 ## 🗃️ Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lshbluesky&repo=Database&description_lines_count=2)](https://github.com/lshbluesky/Database)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lshbluesky&repo=Terraform-Cloud-Monitoring&description_lines_count=2)](https://github.com/lshbluesky/Terraform-Cloud-Monitoring)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lshbluesky&repo=Big-Data-Analysis&description_lines_count=2)](https://github.com/lshbluesky/Big-Data-Analysis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lshbluesky&repo=MazeGame&description_lines_count=2)](https://github.com/lshbluesky/MazeGame)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lshbluesky&repo=RhythmGame&description_lines_count=2)](https://github.com/lshbluesky/RhythmGame)
+| No | 기간 | 프로젝트명 | 주요 기술 스택 |
+|:--:|:----:|:-----------|:---------------|
+| 1 | 24.08.12~25.05.27 | [대학생을 위한 웹 기반의 PMS](https://github.com/lshbluesky/Database) | Python, FastAPI, Docker, MySQL, Google Gemini |
+| 2 | 25.08.07~25.09.15 | [Terraform을 이용한 블로그 및 시스템 모니터링 구축](https://github.com/lshbluesky/Terraform-Cloud-Monitoring) | Oracle Cloud, Terraform, Prometheus, Grafana, Linux |
+| 3 | 25.06.12~25.06.20 | [CNN 딥러닝을 활용한 감자 작물 질병 진단 시스템](https://github.com/lshbluesky/Big-Data-Analysis) | Python, NumPy, Matplotlib, TensorFlow, Keras |
+| 4 | 23.08.30~23.11.29 | [ESCAPE - 즐거운 BGM과 함께하는 아찔아찔 미로 게임](https://github.com/lshbluesky/MazeGame) | C, C++, FMOD Sound Library |
+| 5 | 23.03.08~23.06.07 | [Rhythm Dance - 콘솔 기반 리듬 게임](https://github.com/lshbluesky/RhythmGame) | C, C++, FMOD Sound Library |
+| 6 | 23.12.20~25.02.10 | [IDA를 이용한 macOS 그래픽 드라이버 리버스 엔지니어링](https://github.com/lshbluesky/Samsung-NT750XDA-KF59U-Hackintosh/discussions/15) | C, C++, Assembly, IDA Disassembler, Xcode |
