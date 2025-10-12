@@ -60,4 +60,4 @@
 | 3 | 25.06.12~25.06.20 | [CNN 딥러닝을 활용한 감자 작물 질병 진단 시스템](https://github.com/lshbluesky/Big-Data-Analysis) | Python, NumPy, Matplotlib, TensorFlow, Keras |
 | 4 | 23.08.30~23.11.29 | [ESCAPE - 즐거운 BGM과 함께하는 아찔아찔 미로 게임](https://github.com/lshbluesky/MazeGame) | C, C++, FMOD Sound Library |
 | 5 | 23.03.08~23.06.07 | [Rhythm Dance - 콘솔 기반 리듬 게임](https://github.com/lshbluesky/RhythmGame) | C, C++, FMOD Sound Library |
-| 6 | 23.12.20~25.02.10 | [IDA를 이용한 macOS 그래픽 드라이버 리버스 엔지니어링](https://github.com/lshbluesky/Samsung-NT750XDA-KF59U-Hackintosh/discussions/15) | C, C++, Assembly, IDA Disassembler, Xcode |
+| 6 | 23.12.20~25.02.10 | [IDA를 이용한 macOS 그래픽 드라이버 리버스 엔지니어링](https://github.com/lshbluesky/Samsung-NT750XDA-KF59U-Hackintosh/discussions/15) <br> [그래픽 패치 커널 확장(Kext) 드라이버 링크](https://github.com/lshbluesky/WhateverGreen) <br> [해외 포럼 게시글 링크](https://www.insanelymac.com/forum/topic/358305-80-solved-iris-xe-igpu-on-tiger-lake-successfully-loaded-icllp-frambuffer-and-vram-also-recognizes-1536mb-however-some-issues) | C, C++, Assembly, IDA Disassembler, Xcode |
